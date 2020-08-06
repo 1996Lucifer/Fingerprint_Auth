@@ -1,6 +1,6 @@
-# fingerprintauth
+# Fingerprint Auth
 
-A new Flutter application.
+A new Flutter application to make application secure by applying fingerprint authentication.
 
 ## Getting Started
 
